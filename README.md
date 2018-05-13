@@ -1,2 +1,2 @@
 # DE-120418
-Hotel Room Thermostat Audio Codec - hardware
+Hotel Room Thermostat Audio Codec Modul
